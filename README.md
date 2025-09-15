@@ -100,7 +100,13 @@ python task2_deep_learning.py --dataset mnist --epochs 5
 
 <img width="640" height="480" alt="acc" src="https://github.com/user-attachments/assets/d2e795b0-44f0-4217-a26b-b8c3a401cca9" />
 
+
+
+
 <img width="640" height="480" alt="loss" src="https://github.com/user-attachments/assets/6d3dc098-bd19-4dfb-818e-92eb90b94c6e" />
+
+
+
 
 <img width="676" height="378" alt="Screenshot 2025-09-15 213149" src="https://github.com/user-attachments/assets/330712ae-2b5f-4724-b208-fb6a0c58f525" />
 
